@@ -1,0 +1,25 @@
+body {
+  margin: 20px;
+  background-color: grey;
+  background-image: url('images/bgstarry.jpg');
+}
+
+
+.square {
+  background-color: rgb(0,247,239);
+  width: 250px;
+  height: 250px;
+  box-shadow: 4px 4px 12px 2px rgba(0,0,0,.5) inset;
+  border-radius: 40px 15px 50% 15px;
+
+}
+
+h1 {color: white;
+    text-align: center;
+  }
+h2 {color: white;
+}
+p {font-family: verdana;
+   font-size: 20px;
+    color: white;
+  }
